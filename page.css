@@ -18,7 +18,7 @@ body {
 }
 .navbar {
     flex-basis: 50%;
-    list-style-type: none;
+   
     margin: 0;
     padding: 0;
     font-family: Montserrat;
@@ -27,21 +27,27 @@ body {
 margin-right: 100px;
 width: 200px;
 }
-.navbar li {
+.navbar li  {
     float: left;
     color: white;
     padding: 10px 20px 5px 20px;
     font-size: 15px;
     list-style: none;
     margin-left: 50px;
-  margin-bottom: 100px;
+    margin-bottom: 100px;
+    margin-top: 16px;
 }
+    
+
+    
+
 .navbar li a{
     text-decoration: none;
     color: white;
 }
+
 .inscription_navbar{
-    margin-top: 10px;
+    margin-top: 23px;
     padding: 5px 18px 5px 18px;
     border-radius: 18px 18px 18px 18px;
      color :white;
@@ -125,29 +131,16 @@ width: 200px;
   color: black;
   font-family: Montassert;
   font-size: 20px;
-  margin-top: 30px;
+  margin-top: -28px;
+  margin-left: 70px;
 }
-.ajout {
-   padding: 5px 20px;
-    border-radius: 18px 18px 18px 18px;
 
-    height: 30px;
-    background-color: #1E90FF;
-    color: white;
-    margin-right: 1150px;
-    margin-bottom: 100px;
-    border: none;
-  }
-  .ajout:hover , .ajout:active{
-    background-color: white;
-    color: black;
-    }
   table{
-    margin-left: 300px;
-    margin-top: -70px;
+    margin-left: 435px;
+    margin-top: 61px;
     margin-bottom: 100px;
-    
 }
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -160,9 +153,11 @@ table, th, td {
   }
 
   .gg {
-    font-size: 25px;
-    margin-left: 100px;
+    font-size: 30px;
+    margin-left: 28px;
     font-family: Montserrat;
+ 
+    margin-bottom: -30px;
 }
 .bbbb{
     padding: 5px 20px;
@@ -170,9 +165,10 @@ table, th, td {
     width:290px;
     background-color: #1E90FF;
     color: white;
-    margin-left: 900px;
-    margin-top: -20px;
+    margin-left: 1042px;
+  margin-bottom: -30px;
     border: none;
+    font-size: 20px;
 
 }
 .bbbb:hover , .bbbb:active{
@@ -235,7 +231,7 @@ margin-left: 50px;
     height: 110px;
     color: gray;
     background-color: black;
-    margin-top: 200px;
+    margin-top: 53px;
     display: flex;
 }
 .df1{

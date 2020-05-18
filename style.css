@@ -91,6 +91,11 @@ border-radius: 10px ;
     color: white;
   
 }*/
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 .link1{
 padding: 10px;
 border:1.5px solid white ;
@@ -99,6 +104,7 @@ color: white;
 border-radius: 20px;
 width: 120px;
 margin-left: 100px;
+margin-top: 32px;
 }
 .link2{
 padding: 13px;
@@ -110,7 +116,7 @@ border: none;
 width: 190px;
 font-size: 13px;
 margin-left: 230px;
-margin-top: -35px;
+margin-top: -42px;
 
 background-color: rgb(23, 137, 230);
 box-shadow: 1px 1px 0px rgb(23, 137, 230);
@@ -172,8 +178,9 @@ font-size: 10px;
     color: white;
     padding: 10px 20px 5px 20px;
     list-style: none;
-    margin-left: 30px;
-  margin-bottom: 100px;
+    margin-left: 40px;
+    margin-bottom: 89px;
+    margin-top: 18px;
 }
 .navbar li a{
     text-decoration: none;
@@ -181,7 +188,7 @@ font-size: 10px;
     
 }
 .inscription_navbar{
-    margin-top: 10px;
+    margin-top: 25px;
     padding: 5px 18px 5px 18px;
     border-radius: 18px 18px 18px 18px;
      color :white;
@@ -238,12 +245,12 @@ font-size: 10px;
 }
 #divGen{
     width: 100%;
-    height: 50%;
+    height: 84%;
     display: flex;
     justify-content: center;
-    margin-left: 30px;
-    margin-top:150px; 
-    font-size: 15px;
+    margin-left: 8px;
+    margin-top: 165px;
+    font-size: 18px;
 }
 .divp1{
     width: 32%;
@@ -283,7 +290,7 @@ margin-left: 150px;
 }
 .divpran2{
 width: 100%;
-margin-top: 30px;
+margin-top: -159px;
 height: 500px;
 display: flex;
 
@@ -345,7 +352,7 @@ margin-top: -220px;
 .divprans3{
 width: 100%;
 height: 39em;
-margin-top: 70px;
+margin-top: -97px;
 }
 .divprans3Img{
 
@@ -467,7 +474,7 @@ width: 100%;
 height: 110px;
 color: gray;
 background-color: black;
-margin-top: 130px;
+margin-top: 147px;
 display: flex;
 }
 .df1{
@@ -485,7 +492,25 @@ margin-top: 50px;
 .dfc2{
 margin-left: 196px;
 }
+.gg {
+    font-size: 30px;
+    margin-left: -982px;
+    font-family: Montserrat;
+    margin-bottom: -24px;
+    margin-top: 100px;
+}
+.bbbb{
+    padding: 5px 20px;
+    border-radius: 18px 18px 18px 18px;
+    width:290px;
+    background-color: #1E90FF;
+    color: white;
+    margin-left: 900px;
+  margin-bottom: -30px;
+    border: none;
+    font-size: 20px;
 
+}
 
 
 
@@ -636,8 +661,8 @@ height: 30px;
     width: 278px;
 height: 26px;
 display: flex;
-margin-top: -12px;
-margin-left: 50px;
+margin-top: 30px;
+margin-left: 60px;
 }
 /*FOOTER*/
 .dv3{
@@ -645,7 +670,7 @@ margin-left: 50px;
     height: 110px;
     color: gray;
     background-color: black;
-    margin-top: 200px;
+    margin-top: 146px;
     display: flex;
 }
 .df1{
